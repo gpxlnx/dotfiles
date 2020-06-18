@@ -1,0 +1,16 @@
+syntax on
+
+set encoding=utf8
+set textwidth=79
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+set expandtab
+set smarttab
+set laststatus=2
+set ignorecase
+set list
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+
+hi MatchParen cterm=none ctermbg=gray ctermfg=black
